@@ -1,4 +1,4 @@
-![Starlight Repository Preview](https://api.webstray.com/starlight/user/webstraycom/repository/starlight?sharpProgress=true&styledProgress=true)
+![Starlight Repository Preview](https://api.webstray.com/starlight/user/webstraycom/repository/starlight?borderRadius=40)
 
 # Starlight
 
