@@ -126,4 +126,4 @@ https://api.webstray.com/starlight/user/{username}/repository/{repository}?custo
 
 ## Playground
 
-You can try generating a preview with different parameters on the [starlight website](https://webstray.com/starlight).
+You can try generating a preview with different parameters on the [Starlight website](https://webstray.com/starlight).
