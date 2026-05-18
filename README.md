@@ -101,7 +101,7 @@ This parameter accepts a **string** value.
 To use this parameter, pass it in the request URL:
 
 ```
-https://api.webstray.com/starlight/user/{username}/repository/{repository}?customTitle=CustomTitle
+https://api.webstray.com/starlight/user/{username}/repository/{repository}?customTitle=YourRepositoryTitle
 ```
 
 #### Light Theme
@@ -121,7 +121,7 @@ You can also pass multiple parameters in the query string.
 For example, if you need to generate a repository preview with a custom title, sharp progress, and a single language, your request would look like this:
 
 ```
-https://api.webstray.com/starlight/user/{username}/repository/{repository}?customTitle=true&sharpProgress=true&singleLanguage=true
+https://api.webstray.com/starlight/user/{username}/repository/{repository}?customTitle=YourRepositoryTitle&sharpProgress=true&singleLanguage=true
 ```
 
 ## Playground
