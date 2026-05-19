@@ -1,6 +1,6 @@
 {
   "name": "starlight",
-  "version": "1.4.2",
+  "version": "1.0.0",
   "description": "Starlight is a web application that generates preview images for GitHub repositories.",
   "main": "app.js",
   "scripts": {
