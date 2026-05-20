@@ -1,29 +1,25 @@
 {
   "name": "starlight",
-  "version": "1.0.0",
-  "description": "Starlight is a web application that generates preview images for GitHub repositories.",
-  "main": "app.js",
+  "version": "1.2.0",
+  "private": true,
   "scripts": {
-    "start": "node app.js",
-    "dev": "npx nodemon app.js"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "format": "prettier --write ."
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/webstraycom/starlight"
-  },
-  "author": "KolyaFedorenko",
-  "license": "no-license",
-  "bugs": {
-    "url": "https://github.com/webstraycom/starlight/issues"
-  },
-  "homepage": "",
   "dependencies": {
-    "ejs": "^3.1.10",
-    "express": "^4.18.2",
-    "path": "^0.12.7",
-    "puppeteer": "^24.31.0"
+    "next": "16.2.6",
+    "react": "19.2.4",
+    "react-dom": "19.2.4"
   },
   "devDependencies": {
-    "nodemon": "^2.0.20"
+    "@tailwindcss/postcss": "^4",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.6",
+    "prettier": "^3.8.3",
+    "prettier-plugin-tailwindcss": "^0.8.0",
+    "tailwindcss": "^4"
   }
 }
