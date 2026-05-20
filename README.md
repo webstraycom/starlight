@@ -1,4 +1,4 @@
-![Starlight Repository Preview](https://api.webstray.com/starlight/user/webstraycom/repository/starlight?borderRadius=40)
+![Starlight Repository Preview](https://api.webstray.com/starlight/user/webstraycom/repository/starlight?singleLanguage=true&borderRadius=40)
 
 # Starlight
 
@@ -129,4 +129,4 @@ https://api.webstray.com/starlight/user/{username}/repository/{repository}?custo
 
 #### Playground
 
-You can try different parameter combinations interactively on the [Starlight Playground](/starlight).
+You can try different parameter combinations interactively on the [Starlight Playground](https://webstray.com/starlight).
